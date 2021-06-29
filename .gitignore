@@ -1,0 +1,14 @@
+/dist
+package-lock.json
+yarn.lock
+
+/.idea
+.vscode/*
+
+yarn-error.log
+npm-debug.log
+/coverage
+
+/node_modules
+
+Thumbs.db
